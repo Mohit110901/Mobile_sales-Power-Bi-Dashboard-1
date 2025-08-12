@@ -29,4 +29,4 @@ The dataset used for this dashboard is sourced from Kaggle, featuring fictional 
 • Clean design with data sourced from a realistic Kaggle dataset.<br>
 
 ### Screenshots / Demos
-![Dashboard preview]()
+![Dashboard preview](https://github.com/Mohit110901/Mobile_sales-Power-Bi-Dashboard-1/blob/main/Snapshot%20of%20the%20Dashboard.png)
